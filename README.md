@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/03/10/19/54/19-54-45-121_512.gif" width="500px" alt="Estrelas brilhando" />
+  <img src="https://cdn.pixabay.com/animation/2023/03/10/19/54/19-54-45-121_512.gif" width="400px" alt="Estrelas brilhando" />
 </div>
 
 ---

@@ -1,11 +1,10 @@
 <h1 align="center">Salve, eu sou o Joelison!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Em+constante+evolução...;Estudando+HTML,+CSS,+JavaScript;Lógica,+Git+e+GitHub!" />
+<p align="center"> *"Código é poesia. Cada linha é uma constelação no universo digital."*
 </p>
 
 <div align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="300px" alt="Estrelas brilhando" />
+  <img src="https://cdn.pixabay.com/animation/2023/03/10/19/54/19-54-45-121_512.gif" width="400px" alt="Estrelas brilhando" />
 </div>
 
 ---
@@ -30,17 +29,15 @@
 ---
 
 ### Em breve...
-Estou em constante evolução, assim como meus conhecimentos!
-Em breve, muitos projetos, portfólio, ideias, experimentos e códigos fora da órbita!
+Estou em constante evolução, assim como meus conhecimentos! Em breve, muitos projetos, portfólio, ideias, experimentos e códigos fora da órbita!
 
 ---
 
 ### 📫 Onde me encontrar
-
-- Instagram: [@seuuser](https://instagram.com/seuuser)
-- Email: joelison.silva04@hmail.com
-
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_j.o.e.l.i.s.o.n_/?__pwa=1)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelison.silva0412@gmail.com)
 ---
 
 > *"O universo é infinito, e meu aprendizado também."*
+> *"Decida Viver Novos Começos"*
 

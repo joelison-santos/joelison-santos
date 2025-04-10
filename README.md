@@ -1,10 +1,12 @@
 <h1 align="center">Salve, eu sou o Joelison!</h1>
 
-<p align="center"> *"Código é poesia. Cada linha é uma constelação no universo digital."*
+<h2 align="center">Bem vindo ao meu universo!🌠</h2>
+
+<p align="center"> <em>"Código é poesia. Cada linha é uma constelação no universo digital."</em></p>
 </p>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/03/10/19/54/19-54-45-121_512.gif" width="400px" alt="Estrelas brilhando" />
+  <img src="https://cdn.pixabay.com/animation/2023/03/10/19/54/19-54-45-121_512.gif" width="500px" alt="Estrelas brilhando" />
 </div>
 
 ---
@@ -36,8 +38,14 @@ Estou em constante evolução, assim como meus conhecimentos! Em breve, muitos p
 ### 📫 Onde me encontrar
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_j.o.e.l.i.s.o.n_/?__pwa=1)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelison.silva0412@gmail.com)
+
 ---
 
+<p align="center">
+  <img src="https://blog.b2bstack.com.br/wp-content/uploads/2022/01/front-end-banner.jpg.webp" width="400" alt="Fundo estrelado animado" />
+</p>
+
 > *"O universo é infinito, e meu aprendizado também."*
+
 > *"Decida Viver Novos Começos"*
 
